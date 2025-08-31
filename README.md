@@ -8,8 +8,9 @@
 
 此 TCD采样器 需配合 TCD-LoRA，下载至 ComfyUI/Models/LoRA 
 
-[HF](https://huggingface.co/classronin/TCD-LoRA/tree/main)
-[HF镜像](https://hf-mirror.com/classronin/TCD-LoRA/tree/main)
+[HuggingFace 官方](https://huggingface.co/classronin/TCD-LoRA/tree/main)
+
+[HuggingFace 镜像](https://hf-mirror.com/classronin/TCD-LoRA/tree/main)
 
 ---
 ### TCD采样器
