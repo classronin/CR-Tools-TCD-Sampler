@@ -21,5 +21,5 @@
 ---
 ### TCD采样器
 
-![TCD采样器](https://origin.picgo.net/2025/09/01/tcd_samplera2757970f2e1b728.png)
+![CR Tools TCD Sampler](https://origin.picgo.net/2025/09/01/CR-Tools-TCD-Sampler5ccf91bf2c2f408a.png)
 
